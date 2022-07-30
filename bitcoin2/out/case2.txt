@@ -1,0 +1,2011 @@
+0.2 0.3 0.05 10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Transaction ids that Node 0 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 1 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 2 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 3 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 4 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 5 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 6 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 7 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 8 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 9 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 10 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 11 believes consensus on:31
+equals :false
+
+
+Transaction ids that Node 12 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 13 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 14 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 15 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 16 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 17 believes consensus on:17
+equals :false
+
+
+Transaction ids that Node 18 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 19 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 20 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 21 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 22 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 23 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 24 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 25 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 26 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 27 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 28 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 29 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 30 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 31 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 32 believes consensus on:16
+equals :false
+
+
+Transaction ids that Node 33 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 34 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 35 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 36 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 37 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 38 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 39 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 40 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 41 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 42 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 43 believes consensus on:34
+equals :false
+
+
+Transaction ids that Node 44 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 45 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 46 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 47 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 48 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 49 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 50 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 51 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 52 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 53 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 54 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 55 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 56 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 57 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 58 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 59 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 60 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 61 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 62 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 63 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 64 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 65 believes consensus on:19
+equals :false
+
+
+Transaction ids that Node 66 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 67 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 68 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 69 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 70 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 71 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 72 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 73 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 74 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 75 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 76 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 77 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 78 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 79 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 80 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 81 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 82 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 83 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 84 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 85 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 86 believes consensus on:19
+equals :false
+
+
+Transaction ids that Node 87 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 88 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 89 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 90 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 91 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 92 believes consensus on:33
+equals :false
+
+
+Transaction ids that Node 93 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 94 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 95 believes consensus on:35
+equals :false
+
+
+Transaction ids that Node 96 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 97 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 98 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 99 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 100 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 101 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 102 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 103 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 104 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 105 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 106 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 107 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 108 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 109 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 110 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 111 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 112 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 113 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 114 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 115 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 116 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 117 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 118 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 119 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 120 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 121 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 122 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 123 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 124 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 125 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 126 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 127 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 128 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 129 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 130 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 131 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 132 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 133 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 134 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 135 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 136 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 137 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 138 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 139 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 140 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 141 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 142 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 143 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 144 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 145 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 146 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 147 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 148 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 149 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 150 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 151 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 152 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 153 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 154 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 155 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 156 believes consensus on:14
+equals :false
+
+
+Transaction ids that Node 157 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 158 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 159 believes consensus on:19
+equals :false
+
+
+Transaction ids that Node 160 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 161 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 162 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 163 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 164 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 165 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 166 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 167 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 168 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 169 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 170 believes consensus on:38
+equals :false
+
+
+Transaction ids that Node 171 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 172 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 173 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 174 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 175 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 176 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 177 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 178 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 179 believes consensus on:38
+equals :false
+
+
+Transaction ids that Node 180 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 181 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 182 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 183 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 184 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 185 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 186 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 187 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 188 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 189 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 190 believes consensus on:16
+equals :false
+
+
+Transaction ids that Node 191 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 192 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 193 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 194 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 195 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 196 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 197 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 198 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 199 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 200 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 201 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 202 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 203 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 204 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 205 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 206 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 207 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 208 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 209 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 210 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 211 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 212 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 213 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 214 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 215 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 216 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 217 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 218 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 219 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 220 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 221 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 222 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 223 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 224 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 225 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 226 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 227 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 228 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 229 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 230 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 231 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 232 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 233 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 234 believes consensus on:31
+equals :false
+
+
+Transaction ids that Node 235 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 236 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 237 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 238 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 239 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 240 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 241 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 242 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 243 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 244 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 245 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 246 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 247 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 248 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 249 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 250 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 251 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 252 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 253 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 254 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 255 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 256 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 257 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 258 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 259 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 260 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 261 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 262 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 263 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 264 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 265 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 266 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 267 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 268 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 269 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 270 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 271 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 272 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 273 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 274 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 275 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 276 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 277 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 278 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 279 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 280 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 281 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 282 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 283 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 284 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 285 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 286 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 287 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 288 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 289 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 290 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 291 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 292 believes consensus on:31
+equals :false
+
+
+Transaction ids that Node 293 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 294 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 295 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 296 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 297 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 298 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 299 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 300 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 301 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 302 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 303 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 304 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 305 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 306 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 307 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 308 believes consensus on:33
+equals :false
+
+
+Transaction ids that Node 309 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 310 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 311 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 312 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 313 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 314 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 315 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 316 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 317 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 318 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 319 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 320 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 321 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 322 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 323 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 324 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 325 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 326 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 327 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 328 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 329 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 330 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 331 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 332 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 333 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 334 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 335 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 336 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 337 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 338 believes consensus on:36
+equals :false
+
+
+Transaction ids that Node 339 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 340 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 341 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 342 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 343 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 344 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 345 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 346 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 347 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 348 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 349 believes consensus on:31
+equals :false
+
+
+Transaction ids that Node 350 believes consensus on:19
+equals :false
+
+
+Transaction ids that Node 351 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 352 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 353 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 354 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 355 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 356 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 357 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 358 believes consensus on:37
+equals :false
+
+
+Transaction ids that Node 359 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 360 believes consensus on:15
+equals :false
+
+
+Transaction ids that Node 361 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 362 believes consensus on:17
+equals :false
+
+
+Transaction ids that Node 363 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 364 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 365 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 366 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 367 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 368 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 369 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 370 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 371 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 372 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 373 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 374 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 375 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 376 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 377 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 378 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 379 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 380 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 381 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 382 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 383 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 384 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 385 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 386 believes consensus on:31
+equals :false
+
+
+Transaction ids that Node 387 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 388 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 389 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 390 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 391 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 392 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 393 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 394 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 395 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 396 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 397 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 398 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 399 believes consensus on:38
+equals :false
+
+
+Transaction ids that Node 400 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 401 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 402 believes consensus on:19
+equals :false
+
+
+Transaction ids that Node 403 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 404 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 405 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 406 believes consensus on:33
+equals :false
+
+
+Transaction ids that Node 407 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 408 believes consensus on:35
+equals :false
+
+
+Transaction ids that Node 409 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 410 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 411 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 412 believes consensus on:33
+equals :false
+
+
+Transaction ids that Node 413 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 414 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 415 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 416 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 417 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 418 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 419 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 420 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 421 believes consensus on:29
+equals :false
+
+
+Transaction ids that Node 422 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 423 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 424 believes consensus on:20
+equals :false
+
+
+Transaction ids that Node 425 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 426 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 427 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 428 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 429 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 430 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 431 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 432 believes consensus on:25
+equals :false
+
+
+Transaction ids that Node 433 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 434 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 435 believes consensus on:33
+equals :false
+
+
+Transaction ids that Node 436 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 437 believes consensus on:21
+equals :false
+
+
+Transaction ids that Node 438 believes consensus on:30
+equals :false
+
+
+Transaction ids that Node 439 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 440 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 441 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 442 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 443 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 444 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 445 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 446 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 447 believes consensus on:34
+equals :false
+
+
+Transaction ids that Node 448 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 449 believes consensus on:32
+equals :false
+
+
+Transaction ids that Node 450 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 451 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 452 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 453 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 454 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 455 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 456 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 457 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 458 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 459 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 460 believes consensus on:18
+equals :false
+
+
+Transaction ids that Node 461 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 462 believes consensus on:22
+equals :false
+
+
+Transaction ids that Node 463 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 464 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 465 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 466 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 467 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 468 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 469 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 470 believes consensus on:28
+equals :false
+
+
+Transaction ids that Node 471 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 472 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 473 believes consensus on:33
+equals :false
+
+
+Transaction ids that Node 474 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 475 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 476 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 477 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 478 believes consensus on:23
+equals :false
+
+
+Transaction ids that Node 479 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 480 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 481 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 482 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 483 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 484 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 485 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 486 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 487 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 488 believes consensus on:27
+equals :false
+
+
+Transaction ids that Node 489 believes consensus on:26
+equals :false
+
+
+Transaction ids that Node 490 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 491 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 492 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 493 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 494 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 495 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 496 believes consensus on:24
+equals :false
+
+
+Transaction ids that Node 497 believes consensus on:16
+equals :false
+
+
+Transaction ids that Node 498 believes consensus on:500
+equals :true
+
+
+Transaction ids that Node 499 believes consensus on:500
+equals :true
+
+
